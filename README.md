@@ -1,4 +1,5 @@
-# pythonClass
-# pythonClass
-# Teacher is the awesome M10T
-# M10T is even better than Anthony
+# Python Class
+This is a Git repository in which projects for a python class shall be stored.
+
+
+Teacher: M10T
